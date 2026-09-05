@@ -5,17 +5,21 @@ A minimalist archive and portfolio website for artist **Oleg Ustinov**.
 ## Structure
 
 - **about** — biography and artistic practice
-- **works** — searchable/filterable work archive
+- **works** — filterable work archive
 - **projects** — placeholder for music, collaborations and side projects
-- **awards** — selected exhibitions and milestones
-- **contacts** — contact and external links
+- **exhibitions** — selected exhibitions and milestones
+- **contact** — contact and external links
 
 ## Works archive
 
-The works page uses a tag-based archive inspired by the interaction model of [bratkov.work](https://www.bratkov.work/): years and media act as clickable hashtags, while the toolbar provides sorting by **year** or **medium**.
+The archive uses a tag-based system: years, media and materials can be selected as filters, while the toolbar provides sorting by **year** or **medium**.
 
-Artwork images are currently placeholders and can be replaced with the final image files later.
+The historical archive currently includes works from **2009–2011** stored in `img/2009`, `img/2010` and `img/2011`. Their filenames are used as the source for titles, dates, materials and dimensions. Where an image is available, clicking the work opens a larger preview in a fullscreen lightbox.
 
-## Sources
+Later works remain available in the archive and can be connected to their final image files as those files are added.
+
+## Content
+
+The website is presented in English. Artwork titles are preserved where possible, while descriptive metadata is normalized into English for consistency.
 
 Artist information and selected work metadata are based on publicly available materials from VLADEY and other exhibition sources. The website is an independent portfolio presentation.
